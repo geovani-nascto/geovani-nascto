@@ -1,4 +1,4 @@
-[![MasterHead](https://hbr.org/resources/images/article_assets/2021/06/Jun21_26_1221368566_1159233041_1219183183.gif)]
+![MasterHead](https://hbr.org/resources/images/article_assets/2021/06/Jun21_26_1221368566_1159233041_1219183183.gif)
 <h1 align="center">Hi 👋, I'm Geovani Nascimento</h1>
 <h3 align="center">Frontend student</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYxOTRkZTVjMzQxOTlhMDBkMTFlMmUzYzk3YjExMGE3OGQ2MWQwMSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"
@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **JavaScript, Typescript, React**
 
-- 👨‍💻 All of my projects are available at [...](...)
+- 👨‍💻 All of my projects are available at [https://github.com/geovani-nascto](https://github.com/geovani-nascto)
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
-- 📫 How to reach me **geovaninascmento2001@gmail.com**
+- 📫 How to reach me **geovaninascimento2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
